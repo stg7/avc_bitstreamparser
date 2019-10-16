@@ -921,7 +921,7 @@ static int finalize_frame(H264Context *h, AVFrame *dst, H264Picture *out, int *g
                                  NULL,
                                  h->mb_width, h->mb_height, h->mb_stride, 1);
         }
-        printf("end_frame\n");
+        printf("end_frame\n");  // modified by stg7
     }
 
     return 0;

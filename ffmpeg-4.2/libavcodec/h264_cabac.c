@@ -2487,7 +2487,7 @@ decode_intra_mb:
     }
 
     h->cur_pic.qscale_table[mb_xy] = sl->qscale;
-    printf("qp=%i\n", sl->qscale);
+    printf("qp=%i\n", sl->qscale);  // modified by stg7
     write_back_non_zero_count(h, sl);
 
     return 0;

@@ -2,7 +2,7 @@
 extracts qp values from avc bitstreams
 
 this project is based on https://ffmpeg.org/releases/ffmpeg-4.2.tar.xz
-modifications to ffmpeg are mostly done in h264dec.c and are marked.
+modifications to ffmpeg are mostly done in h264dec.c, h264_cabac.c and are marked.
 The ffmpeg-4.2 folder contains separate licences for FFmpeg.
 
 Author: Steve Göring
