@@ -1,4 +1,4 @@
-# hevc_bitstreamparser
+# avc_bitstreamparser
 extracts qp values from avc bitstreams
 
 this project is based on https://ffmpeg.org/releases/ffmpeg-4.2.tar.xz
